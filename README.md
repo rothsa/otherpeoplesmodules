@@ -6,18 +6,20 @@ Writing puppet to cover all the different parts of your system is a lot less tim
 
 ## Outline
 
-## 0-15 min
+## Part One
  * Introduction
  * Problem statement
  * Presentation outline
  * What to consider when choosing a solution
 
-## 15-30 min
+## Part Two
  * Librarian-puppet, implementation and module manipulations
  * r10k, implementation and module manipulations
 
-## 30-45 min
- * The Forge - how to make contributions back
+## Part Three
+ * Features and benefits of the Forge
+ * What makes a good module on the Forge
+ * How to make contributions back to the Forge
  * Outline review and followup
 
 ## Time Limit: 45 minutes
