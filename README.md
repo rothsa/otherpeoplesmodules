@@ -5,9 +5,10 @@ Presentation method: Reveal.js
 Writing puppet to cover all the different parts of your system is a lot less time consuming if you use modules already available on the web to compliment what you build yourself. There are a number of ways to do this and keep track of which modules you are using and their updates, including git submodules, librarian-puppet, and r10k. This talk covers how to use those methods, how to adapt the modules you've included to your needs, and how to contribute back to the community.
 
 ## Outline
- * Introduction and outline presentation
+ * Introduction
 
  * Problem statement
+ * Presentation outline
  * What to consider when choosing a solution
  
  * Librarian-puppet, implementation and module manipulations
