@@ -7,23 +7,20 @@ Writing puppet to cover all the different parts of your system is a lot less tim
 ## Outline
 
 ## Part One
- * Introduction
- * Problem statement
+ * Introduction and Problem statement
  * Presentation outline
- * What to consider when choosing a solution
 
 ## Part Two
  * Librarian-puppet, implementation and module manipulations
  * r10k, implementation and module manipulations
 
 ## Part Three
- * Features and benefits of the Forge
  * What makes a good module on the Forge
  * Outline review and followup
 
 ## Time Limit: 45 minutes
 Friday October 9, 2015 1:30pm - 2:15pm 
 C123-124 (Oregon Convention Center)
-  
-   
+
+
 
