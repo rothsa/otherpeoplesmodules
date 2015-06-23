@@ -6,12 +6,16 @@ Writing puppet to cover all the different parts of your system is a lot less tim
 
 ## Outline
  * Introduction and outline presentation
+
  * Problem statement
  * What to consider when choosing a solution
+
  * Git submodules, implementation and module manipulations
  * Librarian-puppet, implementation and module manipulations
  * r10k, implementation and module manipulations
+
  * The Forge - how to make contributions back
+
  * Outline review and followup
 
 ## Time Limit: 45 minutes
