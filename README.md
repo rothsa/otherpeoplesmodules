@@ -7,7 +7,12 @@ Writing puppet to cover all the different parts of your system is a lot less tim
 ## Outline
 
 ## Part One
- * Introduction and Problem statement
+ * Introduction 
+ (10 manifests for 40+ servers
+ 30+ modules for applications to configure, install order, configuration, compatibility, not including modules that determine roles and profiles. 
+ How do I organize configuration of an application with all of these moving pieces? 
+ What kinds of things will I need to know beforehand? What’s important? What needs lots of bespoke configuration? How will the advantages and limitations of Puppet affect the way that I define an application's configuration?)
+ * Problem statement
  * Presentation outline
 
 ## Part Two
