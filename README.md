@@ -9,8 +9,7 @@ Writing puppet to cover all the different parts of your system is a lot less tim
 
  * Problem statement
  * What to consider when choosing a solution
-
- * Git submodules, implementation and module manipulations
+ 
  * Librarian-puppet, implementation and module manipulations
  * r10k, implementation and module manipulations
 
